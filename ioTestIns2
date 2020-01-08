@@ -1,0 +1,7 @@
+--processors--
+0 hal0_alternative.hal
+1 hal1_alternative.hal
+2 hal2_alternative.hal
+3 hal3_alternative.hal
+--connections--
+3:1 > 3:
